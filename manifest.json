@@ -19,7 +19,8 @@
     },
     {
       "sizes": "152x152",
-      "src": "https://github.githubassets.com/assets/apple-touch-icon-152x152-5f777cdc30ae.png"
+      "src": "https://raw.githubusercontent.com/Suresh-design462/InstaNurse/blob/main/icons/InstaNurse720.png",
+      "type": "image/png",
     },
     {
       "sizes": "180x180",
@@ -27,7 +28,8 @@
     },
     {
       "sizes": "57x57",
-      "src": "https://github.githubassets.com/assets/apple-touch-icon-57x57-22f09f5b3a64.png"
+      "src": "https://raw.githubusercontent.com/Suresh-design462/InstaNurse/blob/main/icons/InstaNurse720.png",
+      "type": "image/png",
     },
     {
       "sizes": "60x60",
