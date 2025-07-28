@@ -1,9 +1,8 @@
 {
-  "name": "InstaNurse - Advanced Medical Calculator",
+  "name": "InstaNurse",
   "short_name": "InstaNurse",
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
-  "scope": "./",
   "icons": [
     {
       "sizes": "114x114",
@@ -47,7 +46,7 @@
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/Suresh-design462/InstaNurse/blob/main/icons/InstaNurse720.png",
+      "src": "https://github.githubassets.com/assets/app-icon-512-7f9c4ff2e960.png",
       "type": "image/png",
       "sizes": "512x512"
     }
